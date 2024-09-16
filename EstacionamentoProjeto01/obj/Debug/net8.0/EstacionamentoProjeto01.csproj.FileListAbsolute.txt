@@ -1,0 +1,4 @@
+/home/stdev/Documentos/EstacionamentoProjeto01/obj/Debug/net8.0/EstacionamentoProjeto01.GeneratedMSBuildEditorConfig.editorconfig
+/home/stdev/Documentos/EstacionamentoProjeto01/obj/Debug/net8.0/EstacionamentoProjeto01.AssemblyInfoInputs.cache
+/home/stdev/Documentos/EstacionamentoProjeto01/obj/Debug/net8.0/EstacionamentoProjeto01.AssemblyInfo.cs
+/home/stdev/Documentos/EstacionamentoProjeto01/obj/Debug/net8.0/EstacionamentoProjeto01.csproj.CoreCompileInputs.cache
